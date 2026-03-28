@@ -1,128 +1,99 @@
-# Hi there, I'm Jose Vargas 👋
+# José Pablo Vargas Ch.
 
-### Junior Linux Systems Administrator | Aspiring Cybersecurity Engineer
+**Cybersecurity Engineer · Ethical Hacking & Penetration Testing · Bug Bounty Hunter**
 
-I'm a passionate tech professional with **5+ years of experience** bridging technology, security, and customer-focused solutions. Currently pursuing a BSc in Business Administration and Cybersecurity at ULACIT while building real-world infrastructure and automation projects.
-
-I thrive on solving complex problems, securing systems, and optimizing workflows through Linux, Python, and modern DevOps practices.
+ISC² Certified in Cybersecurity (CC) · CompTIA Security+ (in progress) · ULACIT, BSc Cybersecurity · HackerOne: [josepablo26](https://hackerone.com/josepablo26)
 
 ---
 
-## 👋 About Me
+## About
 
-- 🔐 **Certified in Cybersecurity** (ISC2 CC) with hands-on ethical hacking experience
-- 🐧 **Linux enthusiast** skilled in Ubuntu, Amazon Linux, and enterprise system administration
-- 🚀 **Startup founder** at Pondside Studios — serving 4+ international clients with 99.6% satisfaction
-- 🤖 Built **StartupMate.ai**, an AI-powered startup validation tool using Python
-- 🎯 Passionate about **automation, containerization, and network security**
-- 🌎 Bilingual: Spanish (native) | English (advanced)
+I'm a cybersecurity engineer focused on offensive security, vulnerability research, and bug bounty hunting. I identify and responsibly disclose security flaws in production systems — including business logic vulnerabilities in major platforms. I combine hands-on technical depth with a structured, professional approach to reporting and remediation.
 
----
+Currently pursuing a Bachelor's in Cybersecurity at ULACIT while actively participating in public bug bounty programs and expanding my cloud security expertise.
 
-## 🛠️ Skills & Tools
-
-### **Operating Systems & Administration**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Amazon Linux](https://img.shields.io/badge/Amazon%20Linux-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
-
-**AWS Services:** EC2, S3, ECS, ECR
-
-### **Programming & Automation**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### **Networking & Security**
-- **Protocols:** TCP/IP, DNS, DHCP, NTP
-- **Network Analysis:** Wireshark, TCPdump, packet inspection
-- **Security Tools:** pfSense, ethical hacking methodologies
-- **Core Concepts:** Network troubleshooting, traffic analysis, firewall configuration
+- **Focus areas:** Web application security, API security, authentication/authorization flaws, business logic vulnerabilities
+- **Cloud security:** IAM misconfigurations, S3 exposure, SSRF, AWS attack surface enumeration
+- 🐧 **Infrastructure:** Linux systems, Docker, network traffic analysis (secondary tooling for pentest environments)
+- 🌎 **Languages:** Spanish (native) · English (advanced)
 
 ---
 
-## 🧠 Certifications
+## Certifications & Credentials
 
-🎖️ **Certified in Cybersecurity (ISC2 CC)**  
-🛡️ **Cisco Ethical Hacking** — Completed  
-🐧 **Cisco Linux Essentials** — Completed  
-📊 **Microsoft Excel & Word (Advanced)** — Tecmedia
-
----
-
-## 🚀 Projects & Highlights
-
-### 🏢 **Enterprise IT Lab**
-Built a complete home lab environment featuring:
-- **pfSense** for network security and routing
-- **Ubuntu Server** for infrastructure services
-- **Docker** containerization with **Portainer** management
-- Real-world simulation of enterprise IT environments
-
-### 🤖 **StartupMate.ai**
-An AI-powered tool to validate startup ideas using Python:
-- Automated market research and viability analysis
-- Built with modern Python frameworks
-- Designed to help entrepreneurs make data-driven decisions
-
-### 🎨 **Pondside Studios**
-Founded and led a service-based business:
-- Served **4+ international clients**
-- Maintained **99.6% customer satisfaction**
-- Managed end-to-end project delivery and client relationships
-
-### 👥 **Leadership Experience**
-- Led teams at **Foundever** (Verizon account) managing customer escalations
-- Managed operations at **North American Collegiate League** (esports)
-- 5+ years of technical customer service and problem resolution
+| Credential | Issuer | Status |
+|---|---|---|
+| Certified in Cybersecurity (CC) | ISC² | ✅ Active |
+| CompTIA Security+ | CompTIA | 🔄 In progress |
+| Ethical Hacking | Cisco | ✅ Completed |
+| Linux Essentials | Cisco | ✅ Completed |
 
 ---
 
-## 🎓 Education
+## Bug Bounty & Security Research
 
-**BSc in Business Administration and Cybersecurity**  
-Universidad Latinoamericana de Ciencia y Tecnología (ULACIT)  
-*Currently Enrolled*
+**Platform:** HackerOne · [@josepablo26](https://hackerone.com/josepablo26)
 
----
+Active on public programs with a focus on:
+- Business logic vulnerabilities in payment and order processing APIs
+- Authentication bypass and access control weaknesses
+- Improper input validation and server-side enforcement gaps
 
-## 💡 What I'm Working On
-
-- 🔧 Expanding my homelab with Kubernetes and CI/CD pipelines
-- 🐍 Building automation scripts for system administration tasks
-- 📚 Deepening my knowledge in cloud security and infrastructure as code
-- 🔐 Pursuing additional cybersecurity certifications
+**Recent research:** Identified and reported a business logic vulnerability in a major payment platform's Orders v2 API involving order amount manipulation via `PATCH` with insufficient server-side re-validation at capture.
 
 ---
 
-## 📫 How to Reach Me
+## Technical Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-pablo-vargas-ch-a65b50280/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeldixofficial@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zeldixz)
+### Security & Offensive
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
 
-💬 **Open to opportunities in:**
-- ☁️ DevOps & Cloud Infrastructure
-- 🐧 Linux Systems Administration
-- 🔐 Cybersecurity Engineering
-- 🤖 Automation & Scripting
+Web app pentesting · API security testing · Network traffic analysis · Vulnerability assessment · OWASP Top 10
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+AWS (EC2, S3, IAM, ECS) · Docker containerization · Ubuntu/Amazon Linux administration · pfSense firewall configuration
+
+### Programming & Tooling
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+Python scripting · Bash automation · Git version control · Reconnaissance tooling
 
 ---
 
-<div align="center">
+## Education
 
-### "Security is not a product, but a process." — Bruce Schneier
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
-
-</div>
+**BSc in Cybersecurity**  
+Universidad Latinoamericana de Ciencia y Tecnología (ULACIT) · Costa Rica · *Currently enrolled*
 
 ---
 
-**⚡ Fun Fact:** When I'm not securing systems or scripting automations, I'm building tools that help others bring their ideas to life!
+## Projects
+
+### DOOM Dashboard
+Personal security-minded performance tracking application built with React, Supabase, and Vercel. Integrates an AI assistant powered by the Claude API for contextual analysis. Demonstrates full-stack development with security best practices.
+
+### StartupMate.ai
+Python-based AI tool for automated startup validation and market research. Applied to real investment analysis workflows.
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-pablo-vargas-ch-a65b50280/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zeldixofficial@gmail.com)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/josepablo26)
+
+**Open to:** Security engineering roles · Penetration testing contracts · Bug bounty collaborations · Cloud security positions
+
+---
+
+*"Security is not a product, but a process." — Bruce Schneier*
